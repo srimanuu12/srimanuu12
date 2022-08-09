@@ -5,7 +5,8 @@
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=srimanuu12&label=Profile%20views&color=0e75b6&style=flat" alt="srimanuu12" /> </p>
 --->
 
-- 🔭 I’m currently working on **projects on Python and Django**
+- 🔭 **100DaysOfCode** Challenge
+- 🔭 I’m currently working on **projects - Python and Django**
 
 - 🌱 I’m currently learning **Django, Flask**
 
