@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manvitha</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Aspiring full stack developer</h3>
 <img align="right" alt="Coding" width="250" height="250" src="https://user-images.githubusercontent.com/52286661/183576358-4f060b6f-f2d7-4f65-a9b0-bd35b00dbe6f.gif">
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=srimanuu12&label=Profile%20views&color=0e75b6&style=flat" alt="srimanuu12" /> </p>
