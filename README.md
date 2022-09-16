@@ -6,7 +6,7 @@
 --->
 
 - 🔭 **100DaysOfCode** Challenge
-- 🔭 I’m currently working on **projects - Python and Django**
+- 🔭 Working on **projects - Python and Django**
 
 - 🌱 I’m currently learning **Django, Flask**
 
